@@ -1,0 +1,8 @@
+name: Plotz-Greetingz
+author: Melonking
+main: me.nonit.greetingz.Greetingz
+version: 0.1
+depend: [Plotz]
+permissions:
+    plotz.greetingz:
+        description: See greeting messages
